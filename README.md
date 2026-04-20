@@ -10,7 +10,7 @@ kiriVid is a lightweight video capture tool that records your desktop **with sys
 It also includes an advanced editor with motion graphics features inspired by After Effects.
 
 > **Size:** 3MB (Windows)  
-> **Performance:** optimized for fast capture & editing
+> **Performance:** optimized for ultra fast capture & editing
 
 ---
 
