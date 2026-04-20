@@ -9,6 +9,7 @@ A video-capture tool that allows you to record your desktop with audio. You can 
 
 It runs extremely fast and has a download size of only about 3MB (Windows version).
 
+
 This app supports the following features:
 
 🟩 Easily record your desktop screen with audio
